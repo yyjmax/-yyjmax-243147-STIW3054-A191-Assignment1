@@ -3,7 +3,7 @@ My project is to capture the registration information of the student reply and t
 1.get HTML code:  
 ![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Image/HTMLcode.png)  
 2.The maven dependency:  
-![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Images/maven.png)  
+![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Image/maven.png)  
 3.The result:  
 ![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Images/Comparison%20result.png)  
 4.The .xls file:  

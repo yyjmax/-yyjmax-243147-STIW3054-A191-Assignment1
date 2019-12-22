@@ -16,6 +16,6 @@ My project is to capture the registration information of the student reply and t
 259132 have not submitted the GitHub account.  
 we can see there are 6 students have incorect information. And we can get Student manual registration information.  
 My classfication:  
-![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Images/classfiction.png)  
+![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Image/classfiction.png)  
 Youtube Link:https://youtu.be/GWEF3wj6fgU  
 

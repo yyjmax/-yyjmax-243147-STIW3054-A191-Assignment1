@@ -7,7 +7,7 @@ My project is to capture the registration information of the student reply and t
 3.The result:  
 ![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Image/Comparison%20result.png)  
 4.The .xls file:  
-![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Images/Student%20submission%20form.png)  
+![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Image/Student%20submission%20form.png)  
 245607 have not submitted the GitHub account.  
 249879 have not submitted the GitHub account.  
 250634 have not submitted the GitHub account.  

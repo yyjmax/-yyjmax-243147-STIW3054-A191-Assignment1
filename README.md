@@ -1,7 +1,7 @@
 # 243147-STIW3054-A191-Assignment1  
 My project is to capture the registration information of the student reply and the student form provided by the teacher through Jsoup. Then compare the student numbers of the two sets of data to find out which students have the wrong information. Finally, generate the .xls file that grabs the information.  
 1.get HTML code:  
-![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Images/HTMLcode.png)  
+![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Image/HTMLcode.png)  
 2.The maven dependency:  
 ![classDiagram](https://github.com/yyjmax/243147-STIW3054-A191-Assignment1/blob/master/Images/maven.png)  
 3.The result:  
